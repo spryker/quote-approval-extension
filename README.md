@@ -1,12 +1,15 @@
-# Spryker Commerce OS
+# QuoteApprovalExtension Module
+[![Build Status](https://travis-ci.org/spryker/quote-approval-extension.svg)](https://travis-ci.org/spryker/quote-approval-extension)
+[![Coverage Status](https://coveralls.io/repos/github/spryker/quote-approval-extension/badge.svg)](https://coveralls.io/github/spryker/quote-approval-extension)
 
-## Core Modules
+{{ADD DESCRIPTION HERE}}
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
-[![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%207.1-8892BF.svg)](https://php.net/)
+## Installation
 
-### Links
-- **[Spryker Documentation](https://academy.spryker.com/)**
-- [Spryker Architecture-Sniffer](https://github.com/spryker/architecture-sniffer)
-- [Spryker Code-Sniffer](https://github.com/spryker/code-sniffer)
-- [Spryker Code-Generator](https://github.com/spryker/code-generator)
+```
+composer require spryker/quote-approval-extension
+```
+
+## Documentation
+
+[Spryker Documentation](https://documentation.spryker.com/module_guide/overview.htm)
