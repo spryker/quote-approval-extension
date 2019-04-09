@@ -1,5 +1,0 @@
-{
-  "include": {
-    "Silexphp": "Required to get the correct version of `Silexphp` without `LocalListener`."
-  }
-}
